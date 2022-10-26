@@ -444,10 +444,10 @@ num_reconstructed_images <span style="color:#308080; ">=</span> <span style="col
 
 <table>
   <tr>
-    <td> <img src="Reconstructed-samples-1-5.PNG"  width="1000"></td>
+    <td> <img src="images/Reconstructed-samples-1-5.PNG"  width="1000"></td>
    </tr> 
    <tr>
-    <td> <img src="Reconstructed-samples-6-10.PNG"  width="1000"></td>
+    <td> <img src="images/Reconstructed-samples-6-10.PNG"  width="1000"></td>
   </td>
   </tr>
 </table>
