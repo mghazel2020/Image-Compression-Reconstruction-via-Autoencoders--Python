@@ -9,6 +9,7 @@ The objective of this project is to demonstrate how to compress and reconstruct 
 
 ## 2.  Autoencoders
 
+
 Autoencoders are an unsupervised learning technique in which we leverage neural networks for the task of representation learning. Specifically, they have a network architecture, which imposes a bottleneck in the network which forces a compressed knowledge representation of the original input. If the input features were each independent of one another, this compression and subsequent reconstruction would be a very difficult task. However, if some sort of structure exists in the data (i.e. correlations between input features), this structure can be learned and consequently leveraged when forcing the input through the network's bottleneck.
 
 We shall illustrate how to  compress and reconstruct MNIST images using Autoencoders. This can be done because image pixels are highly correlated and there is a significant amount of redundancy, which can be encoded and compressed by the autoencoder while generating reasonably good quality reconstructions.
